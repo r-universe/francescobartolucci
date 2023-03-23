@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "extRC"]
+	path = extRC
+	url = https://github.com/cran/extRC
+	shallow = true
+	registered = true
+[submodule "LCCR"]
+	path = LCCR
+	url = https://github.com/cran/LCCR
+	shallow = true
+	registered = true
+[submodule "LMest"]
+	path = LMest
+	url = https://github.com/cran/LMest
+	shallow = true
+	registered = true
