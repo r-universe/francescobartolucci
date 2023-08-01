@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "extRC"]
-	path = extRC
-	url = https://github.com/cran/extRC
 [submodule "LCCR"]
 	path = LCCR
 	url = https://github.com/cran/LCCR
 [submodule "LMest"]
 	path = LMest
 	url = https://github.com/cran/LMest
+[submodule "extRC"]
+	path = extRC
+	url = https://github.com/cran/extRC
