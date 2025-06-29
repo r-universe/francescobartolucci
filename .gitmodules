@@ -8,6 +8,12 @@
 [submodule "LMest"]
 	path = LMest
 	url = https://github.com/cran/LMest
+[submodule "MLCIRTwithin"]
+	path = MLCIRTwithin
+	url = https://github.com/cran/MLCIRTwithin
+[submodule "MultiLCIRT"]
+	path = MultiLCIRT
+	url = https://github.com/cran/MultiLCIRT
 [submodule "extRC"]
 	path = extRC
 	url = https://github.com/cran/extRC
